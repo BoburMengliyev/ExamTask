@@ -1,0 +1,15 @@
+E:\B_M__Personal Profile\C#\ExamTask7\bin\Debug\net9.0\ExamTask7.exe
+E:\B_M__Personal Profile\C#\ExamTask7\bin\Debug\net9.0\ExamTask7.deps.json
+E:\B_M__Personal Profile\C#\ExamTask7\bin\Debug\net9.0\ExamTask7.runtimeconfig.json
+E:\B_M__Personal Profile\C#\ExamTask7\bin\Debug\net9.0\ExamTask7.dll
+E:\B_M__Personal Profile\C#\ExamTask7\bin\Debug\net9.0\ExamTask7.pdb
+E:\B_M__Personal Profile\C#\ExamTask7\obj\Debug\net9.0\ExamTask7.GeneratedMSBuildEditorConfig.editorconfig
+E:\B_M__Personal Profile\C#\ExamTask7\obj\Debug\net9.0\ExamTask7.AssemblyInfoInputs.cache
+E:\B_M__Personal Profile\C#\ExamTask7\obj\Debug\net9.0\ExamTask7.AssemblyInfo.cs
+E:\B_M__Personal Profile\C#\ExamTask7\obj\Debug\net9.0\ExamTask7.csproj.CoreCompileInputs.cache
+E:\B_M__Personal Profile\C#\ExamTask7\obj\Debug\net9.0\ExamTask7.sourcelink.json
+E:\B_M__Personal Profile\C#\ExamTask7\obj\Debug\net9.0\ExamTask7.dll
+E:\B_M__Personal Profile\C#\ExamTask7\obj\Debug\net9.0\refint\ExamTask7.dll
+E:\B_M__Personal Profile\C#\ExamTask7\obj\Debug\net9.0\ExamTask7.pdb
+E:\B_M__Personal Profile\C#\ExamTask7\obj\Debug\net9.0\ExamTask7.genruntimeconfig.cache
+E:\B_M__Personal Profile\C#\ExamTask7\obj\Debug\net9.0\ref\ExamTask7.dll
